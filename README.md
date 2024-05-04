@@ -1,1 +1,1 @@
-![](/showcase/video.mp4)
+![](showcase/video.mp4)
